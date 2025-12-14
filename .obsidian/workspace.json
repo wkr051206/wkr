@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模电/蜂考8小时/7 场效应管电路分析和复合管.md",
+                "file": "数据结构/学习通版/3.1 栈.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 场效应管电路分析和复合管"
+              "title": "3.1 栈"
+            }
+          },
+          {
+            "id": "e16112ba134f68d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,14 +179,23 @@
               "icon": "lucide-list",
               "title": "Java类与对象 的大纲"
             }
+          },
+          {
+            "id": "f083f3be72b01451",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,14 +206,21 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "media-extended:Open external media": false
+      "media-extended:Open external media": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "434fda029d769c48",
+  "active": "e16112ba134f68d0",
   "lastOpenFiles": [
+    "数据结构/学习通版/3.1 栈.md",
+    "README.md",
+    "未命名 4.base",
+    "未命名 3.base",
+    "未命名 2.base",
+    "未命名 1.base",
+    "模电/蜂考8小时/7 场效应管电路分析和复合管.md",
     "模电/蜂考8小时/media/Pasted image 20251214170315.png",
     "模电/蜂考8小时/6 场效应管基础.md",
-    "模电/蜂考8小时/7 场效应管电路分析和复合管.md",
     "模电/蜂考8小时/media/Pasted image 20251214170102.png",
     "模电/蜂考8小时/media/Pasted image 20251214165826.png",
     "模电/蜂考8小时/media/Pasted image 20251214165604.png",
@@ -200,7 +230,6 @@
     "模电/蜂考8小时/media/Pasted image 20251214163243.png",
     "模电/蜂考8小时/media/Pasted image 20251214162958.png",
     "模电/蜂考8小时/media/Pasted image 20251214162942.png",
-    "模电/蜂考8小时/media/Pasted image 20251214162810.png",
     "模电/蜂考8小时/3 晶体管1.md",
     "模电/蜂考8小时/5 基本放大电路分析.md",
     "模电/蜂考8小时/4 晶体管2.md",
@@ -211,13 +240,9 @@
     "大物2",
     "模电/蜂考8小时/1 半导体基础.md",
     "模电/蜂考8小时/media",
-    "未命名 3.base",
     "模电/蜂考8小时",
     "模电",
-    "未命名.base",
     "wps二级/文字/专项练习-文字1.md",
-    "未命名 4.base",
-    "未命名 2.base",
     "数据结构/蜂考/链表.md",
     "数据结构/3.顺序表与链表.md",
     "数据结构/期中考试题目.md",
@@ -232,7 +257,6 @@
     "数据结构/学习通版/2.2线性表的顺序表示.md",
     "数据结构/学习通版/2.3单链表的概念及创建.md",
     "数据结构/学习通版/3.1栈的概念及应用.md",
-    "数据结构/学习通版/3.1 栈.md",
     "数据结构/学习通版/3章节题目整合.md"
   ]
 }
